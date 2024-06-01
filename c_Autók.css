@@ -18,8 +18,12 @@ body{
     font-weight: bold;
     text-align: center;
     background-color: white;
+    color: maroon;
 }
 h1{
     text-align: center;
     height: 10vw;
+}
+#főcím{
+    text-align: center;
 }
