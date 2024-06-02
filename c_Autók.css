@@ -3,6 +3,7 @@ html {
     background-size: 100%;
     padding-left: 10%;
     padding-right: 10%;
+    background-attachment: fixed;
 }
 
 body{
