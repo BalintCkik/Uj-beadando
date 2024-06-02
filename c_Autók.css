@@ -27,3 +27,6 @@ h1{
 #főcím{
     text-align: center;
 }
+.Képek{
+    float: right;
+}
