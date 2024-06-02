@@ -33,3 +33,10 @@ h1{
 .Képek{
     float: right;
 }
+video{
+   
+    height: 80%;
+    width: 80%;
+    float: left;
+}
+
